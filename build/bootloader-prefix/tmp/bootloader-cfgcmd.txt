@@ -1,1 +1,0 @@
-cmd='C:/Users/lenovo/.espressif/tools/cmake/3.16.4/bin/cmake.exe;-DSDKCONFIG=D:/P2021/ESP32-CPP/ESP32-OLED/sdkconfig;-DIDF_PATH=C:/Users/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=C:/Users/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
