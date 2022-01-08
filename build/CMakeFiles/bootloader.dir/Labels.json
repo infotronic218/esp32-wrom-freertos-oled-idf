@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/P2021/ESP32-CPP/ESP32-OLED/build/CMakeFiles/bootloader
+D:/P2021/ESP32-CPP/ESP32-OLED/build/CMakeFiles/bootloader.rule
+D:/P2021/ESP32-CPP/ESP32-OLED/build/CMakeFiles/bootloader-complete.rule
+D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/P2021/ESP32-CPP/ESP32-OLED/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
